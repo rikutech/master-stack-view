@@ -15,6 +15,9 @@
 		1F8149B8240666DD00F1A2C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F8149B6240666DD00F1A2C6 /* LaunchScreen.storyboard */; };
 		1F8149C3240666DD00F1A2C6 /* master_stack_viewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8149C2240666DD00F1A2C6 /* master_stack_viewTests.swift */; };
 		1F8149CE240666DD00F1A2C6 /* master_stack_viewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8149CD240666DD00F1A2C6 /* master_stack_viewUITests.swift */; };
+		1F8149DC2406672E00F1A2C6 /* ArticleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8149DB2406672E00F1A2C6 /* ArticleTableViewCell.swift */; };
+		1F8149DE2406673800F1A2C6 /* ArticleTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F8149DD2406673800F1A2C6 /* ArticleTableViewCell.xib */; };
+		1F8149E0240677C600F1A2C6 /* Answer.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F8149DF240677C600F1A2C6 /* Answer.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		1F8149C9240666DD00F1A2C6 /* master-stack-viewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "master-stack-viewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F8149CD240666DD00F1A2C6 /* master_stack_viewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = master_stack_viewUITests.swift; sourceTree = "<group>"; };
 		1F8149CF240666DD00F1A2C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F8149DB2406672E00F1A2C6 /* ArticleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleTableViewCell.swift; sourceTree = "<group>"; };
+		1F8149DD2406673800F1A2C6 /* ArticleTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ArticleTableViewCell.xib; sourceTree = "<group>"; };
+		1F8149DF240677C600F1A2C6 /* Answer.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Answer.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +112,9 @@
 				1F8149B4240666DD00F1A2C6 /* Assets.xcassets */,
 				1F8149B6240666DD00F1A2C6 /* LaunchScreen.storyboard */,
 				1F8149B9240666DD00F1A2C6 /* Info.plist */,
+				1F8149DB2406672E00F1A2C6 /* ArticleTableViewCell.swift */,
+				1F8149DD2406673800F1A2C6 /* ArticleTableViewCell.xib */,
+				1F8149DF240677C600F1A2C6 /* Answer.xib */,
 			);
 			path = "master-stack-view";
 			sourceTree = "<group>";
@@ -232,9 +241,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F8149DE2406673800F1A2C6 /* ArticleTableViewCell.xib in Resources */,
 				1F8149B8240666DD00F1A2C6 /* LaunchScreen.storyboard in Resources */,
 				1F8149B5240666DD00F1A2C6 /* Assets.xcassets in Resources */,
 				1F8149B3240666DB00F1A2C6 /* Main.storyboard in Resources */,
+				1F8149E0240677C600F1A2C6 /* Answer.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F8149DC2406672E00F1A2C6 /* ArticleTableViewCell.swift in Sources */,
 				1F8149B0240666DB00F1A2C6 /* ViewController.swift in Sources */,
 				1F8149AC240666DB00F1A2C6 /* AppDelegate.swift in Sources */,
 				1F8149AE240666DB00F1A2C6 /* SceneDelegate.swift in Sources */,

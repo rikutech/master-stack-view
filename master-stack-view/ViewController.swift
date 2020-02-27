@@ -47,7 +47,7 @@ let articles = [
 class ViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView! {
         didSet {
-            tableView.register(UINib(nibName: "Answer", bundle: nil), forCellReuseIdentifier: "Cell")
+            tableView.register(UINib(nibName: "ArticleTableViewCell", bundle: nil), forCellReuseIdentifier: "Cell")
             tableView.dataSource = self
         }
     }

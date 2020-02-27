@@ -7,4 +7,6 @@
 
 こうなっていればOK
 
-<img src="https://raw.githubusercontent.com/rikutech/master-stack-view/master/model.png" width="50%" />
+<img src="https://raw.githubusercontent.com/rikutech/master-stack-view/master/model.png" width="33%" />
+
+Answer.xib

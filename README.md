@@ -4,10 +4,13 @@
 架空の記事のリストをいい感じのレイアウトに組んでもらいます。
 変更を加える必要があるファイルはArticleTableViewCell.xibのみです。
 他のファイルに変更を加えないとどうしてもできない…と思ったら、セオリーから外れたトリッキーな手段で実装しようとしている可能性大です。
-記事のCellにはいくつかのパターンがあり、全てのパターンでキレイに表示ができればクリアです。
+クリア条件:
+1.全てのパターンでキレイに記事が表示できている
 
 こうなっていればOK
 
-<img src="https://raw.githubusercontent.com/rikutech/master-stack-view/master/model-image.png" width="33%" />
+<img src="https://raw.githubusercontent.com/rikutech/master-stack-view/master/model.png" width="33%" />
+
+2.制約のエラー・警告が出ていない
 
 Answer.xibに模範解答があります。終了するまで閲覧禁止です！

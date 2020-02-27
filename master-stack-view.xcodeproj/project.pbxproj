@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1F4C7BFF240798510024D6B6 /* Difficult.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F4C7BFE240798510024D6B6 /* Difficult.xib */; };
+		1F4C7C0124079A050024D6B6 /* DifficultAnswer.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F4C7C0024079A050024D6B6 /* DifficultAnswer.xib */; };
 		1F8149AC240666DB00F1A2C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8149AB240666DB00F1A2C6 /* AppDelegate.swift */; };
 		1F8149AE240666DB00F1A2C6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8149AD240666DB00F1A2C6 /* SceneDelegate.swift */; };
 		1F8149B0240666DB00F1A2C6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8149AF240666DB00F1A2C6 /* ViewController.swift */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		1F4C7BFE240798510024D6B6 /* Difficult.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Difficult.xib; sourceTree = "<group>"; };
+		1F4C7C0024079A050024D6B6 /* DifficultAnswer.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DifficultAnswer.xib; sourceTree = "<group>"; };
 		1F8149A8240666DB00F1A2C6 /* master-stack-view.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "master-stack-view.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F8149AB240666DB00F1A2C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1F8149AD240666DB00F1A2C6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				1F8149DD2406673800F1A2C6 /* ArticleTableViewCell.xib */,
 				1F8149DF240677C600F1A2C6 /* Answer.xib */,
 				1F4C7BFE240798510024D6B6 /* Difficult.xib */,
+				1F4C7C0024079A050024D6B6 /* DifficultAnswer.xib */,
 			);
 			path = "master-stack-view";
 			sourceTree = "<group>";
@@ -247,6 +250,7 @@
 				1F4C7BFF240798510024D6B6 /* Difficult.xib in Resources */,
 				1F8149DE2406673800F1A2C6 /* ArticleTableViewCell.xib in Resources */,
 				1F8149B8240666DD00F1A2C6 /* LaunchScreen.storyboard in Resources */,
+				1F4C7C0124079A050024D6B6 /* DifficultAnswer.xib in Resources */,
 				1F8149B5240666DD00F1A2C6 /* Assets.xcassets in Resources */,
 				1F8149B3240666DB00F1A2C6 /* Main.storyboard in Resources */,
 				1F8149E0240677C600F1A2C6 /* Answer.xib in Resources */,

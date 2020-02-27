@@ -7,3 +7,4 @@
 
 こうなっていればOK
 
+![image](https://raw.githubusercontent.com/rikutech/master-stack-view/master/model.png)

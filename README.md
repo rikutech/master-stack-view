@@ -8,6 +8,6 @@
 
 こうなっていればOK
 
-<img src="https://raw.githubusercontent.com/rikutech/master-stack-view/master/model.png" width="33%" />
+<img src="https://raw.githubusercontent.com/rikutech/master-stack-view/master/model-image.png" width="33%" />
 
 Answer.xibに模範解答があります。終了するまで閲覧禁止です！

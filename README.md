@@ -7,4 +7,4 @@
 
 こうなっていればOK
 
-![image](https://raw.githubusercontent.com/rikutech/master-stack-view/master/model.png)
+<img src="https://raw.githubusercontent.com/rikutech/master-stack-view/master/model.png" width="50%" />
